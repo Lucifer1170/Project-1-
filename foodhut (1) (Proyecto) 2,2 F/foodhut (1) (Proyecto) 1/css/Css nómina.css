@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+}
+
+#nomina {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd;
+    width: 80%;
+    margin: 20px auto;
+}
+
+#empleados-lista {
+    list-style-type: none;
+    padding: 0;
+}
+
+#empleados-lista li {
+    margin:10px0;
+}
